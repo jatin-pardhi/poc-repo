@@ -1,151 +1,164 @@
-Proposed change: add a new article to the repository
+Proposed change: add a 2‑day Bengaluru (BLR) itinerary with prioritized places and a detailed, time-boxed plan.
 
-File: articles/microsoft-foundry.md
-Commit message: add article: overview and getting started guide for Microsoft Azure AI Foundry
+New file: itineraries/blr_2day_itinerary.txt
 
-Content:
+Diff:
+--- /dev/null
++++ b/itineraries/blr_2day_itinerary.txt
+@@ -0,0 +1,196 @@
++Bengaluru (BLR) 2‑day itinerary
++
++Prioritized places (ordered, with priority and quick notes)
++- Lalbagh Botanical Garden — Priority: High
++  Why: Iconic, lush heritage garden; best in the morning; Glass House, lakes.
++  Hours/fee: 6:00–19:00; small entry fee; weekend mornings can be busy.
++- Nandi Hills (sunrise) — Priority: High (if you can start very early)
++  Why: Spectacular sunrise above the clouds; cool weather; short hikes.
++  Notes: ~60–70 km from city center; go very early (weekends get crowded and may cap entry). Carry ID and UPI/cash for tickets/parking.
++- Cubbon Park + Vidhana Soudha (photo stop) — Priority: High
++  Why: Green heart of the city; colonial architecture; easy pairing after museums.
++  Hours: Park open early–evening; library and museums around have separate hours.
++- Church Street + MG Road promenade — Priority: High (evening vibe)
++  Why: Bookstores (Blossom), cafés, street performances on weekends; easy dinner options.
++- Bangalore Palace — Priority: Medium‑High
++  Why: Tudor‑style architecture, royal memorabilia; good for photos; audio guides.
++  Hours/fee: ~10:00–17:30; entry fee applies; last entry ~17:00.
++- Visvesvaraya Industrial & Technological Museum — Priority: Medium‑High (especially with kids/nerds)
++  Why: Hands‑on science exhibits; air‑conditioning respite; near Cubbon Park.
++  Hours/fee: ~9:30–18:00; closed on a few national holidays.
++- HAL Aerospace Museum — Priority: Medium‑High
++  Why: Aircraft on display, simulators; near airport road; pairs well with Indiranagar lunch.
++  Hours/fee: ~9:00–17:00; check simulator timings.
++- Tipu Sultan’s Summer Palace + Bengaluru Fort — Priority: Medium
++  Why: Quick heritage stop; teak interiors; near KR Market.
++  Hours/fee: ~8:30–17:30; small fee; combine with an old‑city walk.
++- Indiranagar/Koramangala craft breweries & eateries — Priority: High (if you enjoy nightlife); otherwise Medium
++  Why: Bengaluru’s famed microbreweries, varied dining.
++  Note: Popular spots: Toit, Arbor, Windmills, Byg Brewski; expect waits on weekends.
++- ISKCON Temple & Orion Mall (Rajajinagar) — Priority: Medium
++  Why: Grand temple complex for a serene break; combine with quick mall stop.
++  Hours: Mid‑morning and evening; check arati times.
++- Bannerghatta Biological Park (safari + butterfly park) — Priority: Medium (time‑intensive)
++  Why: Wildlife safari near the city; better for families; can consume half a day.
++  Hours: ~9:30–17:00; closed Tuesdays; safari queues on weekends.
++- Commercial Street/Brigade Road shopping — Priority: Medium
++  Why: Souvenirs, street shopping; add if time permits after Church Street.
++
++Notes before you start
++- Traffic is heavy; cluster sights to minimize criss‑cross. Use Namma Metro (Green/Purple lines) where possible; cabs for cross‑town hops.
++- Monday closures: Many museums (NGMA, some galleries) are shut on Monday; Visvesvaraya is usually open but verify. Bannerghatta closed Tuesday.
++- Start early each day; keep buffer for traffic and queues.
++
++Day 1 (Central heritage, parks, museums, and evening stroll)
++- 07:15–09:00 — Lalbagh Botanical Garden
++  Plan: Enter from West or East Gate; loop the lake, visit Glass House and Kempegowda Tower. Great light for photos.
++  Breakfast options nearby (choose one):
++  - MTR, Lalbagh Road (classic South Indian; opens ~6:30) — try rava idli, masala dosa, filter coffee.
++  - Vidyarthi Bhavan, Gandhi Bazaar (opens early; closes mid‑day; dosa focused; expect wait).
++  Travel: Auto/Taxi between Lalbagh and next stop: ~15–25 min depending on traffic.
++
++- 09:30–10:30 — Tipu Sultan’s Summer Palace (+ Bengaluru Fort quick look)
++  Plan: 45–60 min walkthrough; read the panels; teakwork photography. If crowds are heavy, cap at 30–40 min.
++
++- 10:45–12:15 — Visvesvaraya Industrial & Technological Museum
++  Plan: Prioritize Engines/Hall of Electronics/Space; good for all ages; 60–90 min.
++  Alternative (if you prefer art): National Gallery of Modern Art (NGMA) on Palace Road (11:00–18:00; closed Monday) — 60–90 min.
++
++- 12:30–13:30 — Lunch (central)
++  Options:
++  - Central tiffin/quick bites near MG Road/Church Street (Truffles, Konark, CTR Express).
++  - Shivajinagar/Empire (for kebabs/biryani) if you prefer non‑veg; or Meghana Foods for Andhra biryani.
++
++- 13:45–15:00 — Cubbon Park stroll + Central Library/Vidhana Soudha photo stop
++  Plan: Enter from the museum side; stroll tree‑lined avenues; pause at the red State Central Library building; quick photo of Vidhana Soudha from the perimeter.
++
++- 15:15–16:45 — Bangalore Palace
++  Plan: Audio guide recommended; budget 60–90 min. Last entry around 17:00.
++
++- 17:15–19:00 — Church Street + MG Road
++  Plan: Book browse at Blossom Book House; coffee at Third Wave; street performances on weekends; optional detour to Commercial Street for quick shopping.
++
++- 19:30–late — Dinner and craft beer
++  Options by area:
++  - Indiranagar: Toit (busy; arrive early), Windmills (microbrewery with music; further east), Meghana Foods (if you want biryani instead).
++  - UB City: Skyye rooftop for views; fine‑dining cluster (pricier).
++  Tips: Peak dinner waits on weekends; consider joining waitlists en route.
++
++Day 2 (Early sunrise option + aeronautics/art + neighborhoods)
++Option A: Nandi Hills sunrise + city highlights
++- 04:15 — Depart for Nandi Hills (from central BLR ~60–75 min pre‑dawn)
++  Notes: Weekends can have entry caps/queues; arrive before sunrise. Carry a light jacket; roads can be foggy.
++- 05:30–07:00 — Nandi Hills sunrise and short walk
++  Plan: Viewpoint near the fort wall; short walk to Tipu’s Drop. Avoid littered areas; watch footing.
++- 07:15–08:00 — Breakfast near Nandi Hills
++  Options: Nandi Upachar, Indian Paratha Company (on the highway), or quick chai/bun stops.
++- 08:00–09:30 — Drive back towards city (aim to beat later traffic)
++- 10:30–12:00 — HAL Aerospace Museum (Old Airport Road)
++  Plan: 60–90 min for exhibits + outdoor aircraft; try simulators if available.
++- 12:15–13:15 — Lunch (Indiranagar/Koramangala)
++  Options: Meghana Foods (Andhra), Toit lunch (lighter crowds), Sly Granny/Truffles, or local South Indian meals (New Krishna Bhavan).
++- 13:45–15:00 — Optional add‑on (choose one)
++  - ISKCON Temple (Rajajinagar): serene visit; combine with quick Orion Mall coffee.
++  - NGMA (if not done Day 1): 60–90 min.
++  - Commercial Street: shopping stroll (60–90 min).
++- 15:30–17:00 — Neighborhood café downtime
++  Options: Koramangala (Third Wave, Dyu Art Café), Indiranagar (Glen’s, Matunga Coffee House), or a microbrewery if you skipped earlier.
++- 18:00–late — Dinner/leisure
++  Options: Koramangala (Byg Brewski, Prost), Indiranagar (BBQ/Asian), or Frazer Town (Fanoos/Empire for kebabs, especially during festive seasons).
++
++Option B: If you don’t want the early start
++- 09:00–12:30 — Bannerghatta Biological Park safari + butterfly park (closed Tuesdays)
++  Plan: Arrive early to reduce safari wait; allocate 2.5–3 hours total.
++- 13:00–14:00 — Lunch on the way back (JP Nagar/Arekere options aplenty).
++- 14:30–16:00 — HAL Aerospace Museum or NGMA (choose one).
++- 16:30–18:00 — Church Street/Commercial Street (if not covered Day 1).
++- 19:00–late — Indiranagar/Koramangala dinner and wind‑down.
++
++Logistics and travel times (approximate, by car off‑peak; add buffer for peak hours)
++- Lalbagh → Tipu’s Palace: 15–20 min
++- Tipu’s Palace → Visvesvaraya Museum/Cubbon: 15–20 min
++- Cubbon → Bangalore Palace: 15–25 min
++- Bangalore Palace → Church Street: 10–20 min
++- Central BLR → Nandi Hills base: 60–90 min (pre‑dawn faster)
++- Indiranagar ↔ HAL Museum: 10–20 min
++- Indiranagar ↔ Koramangala: 20–35 min
++
++Metro help (if you prefer trains for Day 1 core)
++- MG Road/Trinity (Purple Line) for Church Street/MG Road area.
++- Vidhana Soudha/Cubbon Park (Purple Line) for Cubbon and museums.
++- Lalbagh (Green Line) for Lalbagh West Gate (short walk).
++Note: Tipu’s Palace isn’t right at a metro; auto/cab is easier for that segment.
++
++Food highlights near clusters (quick reference)
++- Classic South Indian: MTR (Lalbagh Rd), Vidyarthi Bhavan (Gandhi Bazaar), CTR (Malleshwaram; detour).
++- Biryani: Meghana Foods (Indiranagar/Koramangala/Residency Rd), Shivaji Military Hotel (if you can detour, earlier in day).
++- Cafés: Third Wave (multiple), Dyu Art Café (Koramangala), Blue Tokai (Indiranagar).
++- Breweries: Toit (Indiranagar), Arbor (MG Rd), Windmills (Whitefield; longer trip), Byg Brewski (Hennur/Sarjapur; plan extra time).
++
++Rain/heat contingencies
++- Swap parks with museums (Visvesvaraya, HAL) or malls (UB City, Orion).
++- Keep umbrellas/light jackets; Bangalore weather can change quickly.
++
++If you must trim
++- Skip either Bangalore Palace or Tipu’s Palace (do one heritage interior).
++- Do either HAL Museum or Visvesvaraya, not both, unless you love museums.
++- If you dislike crowds/early mornings, skip Nandi Hills and add NGMA + a relaxed brunch.
++
++Estimated budgets (per adult; rough)
++- Local entries (Lalbagh, Tipu’s Palace, museums): INR 50–300 each.
++- Meals: INR 200–600 for local tiffin; INR 800–1500 for dinner with craft beer.
++- Cabs intra‑city: INR 100–400 per hop; Nandi Hills round trip by cab: INR 2500–4000 depending on time/distance.
++
++Final tips
++- Start early, hydrate, and keep cash/UPI for small tickets.
++- Weekends are busy; pre‑book tables where possible and allow queue time.
++- Check live hours/closures on the day (festival/holiday variations can apply).
 
-Microsoft Azure AI Foundry: Overview and Getting Started
+What I did
+- Added itineraries/blr_2day_itinerary.txt containing:
+  - An ordered, prioritized list of places with brief justifications and practical info.
+  - Two detailed, time‑boxed day plans with alternatives, travel times, dining options, and contingencies.
 
-Summary
-Microsoft Azure AI Foundry (the evolution of Azure AI Studio announced in 2024) is Microsoft’s end‑to‑end platform for building, evaluating, deploying, and governing generative AI applications. It brings together a catalog of frontier and open models, tools for prompt and workflow orchestration, retrieval-augmented generation (RAG) with enterprise data, safety and compliance services, and managed deployment options on Azure.
-
-This article provides a high‑level, public‑information overview, plus practical guidance on how to start building with Azure AI Foundry.
-
-What Azure AI Foundry is
-- A unified developer environment: A web and API experience (ai.azure.com) for creating “projects” that connect to Azure AI resources and help teams iterate from prototype to production.
-- Model access in one place: A catalog that includes Azure OpenAI models (for example GPT‑4 family including GPT‑4o where available), Microsoft’s small language models (Phi‑3 family), and select open models from partners such as Meta and Mistral available as managed “model as a service” endpoints.
-- Orchestration and evaluation: Tools to design and version prompts and multi‑step flows, connect tools and data, run experiments, evaluate quality, and promote versions to production.
-- Enterprise‑grade guardrails: Built‑in content safety, responsible AI checks, monitoring, and governance integrated with Azure security, identity, and networking.
-
-Key capabilities
-- Model catalog and endpoints
-  - Choose from curated foundation and small language models hosted by Azure.
-  - Consume via standardized REST/SDK endpoints; pay as you go without managing GPUs when using model‑as‑a‑service.
-- Azure OpenAI integration
-  - Access OpenAI models hosted in Azure regions, with enterprise security and data residency controls.
-  - Support for features like tool/function calling, embeddings, image understanding (where supported), and streaming responses.
-- Prompt and workflow orchestration
-  - Design prompt templates, chain steps, call tools and APIs, and manage variables.
-  - Version prompts and flows; compare variants with A/B evaluation.
-- Retrieval‑augmented generation (RAG)
-  - Bring enterprise data to your AI app using Azure AI Search for indexing, vector search, and hybrid retrieval.
-  - Ingest from common Azure data sources (for example Azure Blob Storage, Azure Data Lake, SQL) and other sources through connectors and pipelines.
-  - Manage embeddings and chunking strategies from within your project.
-- Evaluation and safety
-  - Automated and human‑in‑the‑loop evaluation for relevance, groundedness, and harmful content.
-  - Azure AI Content Safety for classification, redaction, jailbreak detection, and configurable thresholds.
-  - Prompt shields and system instructions to reduce prompt injection and data leakage risks.
-- Deployment and operations
-  - One‑click deployment of flows and models to managed online endpoints.
-  - Private networking options (private endpoints, managed VNets) and Azure RBAC with Microsoft Entra ID.
-  - Integration with Application Insights and logging for latency, cost, and quality telemetry.
-- Fine‑tuning and adapters
-  - Fine‑tune select models and/or apply parameter‑efficient techniques (for example LoRA) where supported by the specific model offering.
-- SDKs and frameworks
-  - Use Python or .NET SDKs and integrate with Microsoft orchestration libraries such as Semantic Kernel; many teams also pair Foundry with agent frameworks (for example AutoGen) and popular OSS libraries.
-
-Typical solution architecture
-- Data ingestion and indexing
-  - Prepare content in storage; index and chunk with Azure AI Search; generate embeddings using a supported model.
-- Orchestration
-  - Author a prompt flow that accepts a user question, retrieves relevant documents, calls the chosen model with a grounded prompt, and optionally invokes tools/APIs for actions.
-- Evaluation
-  - Create test sets and run automated evaluations for relevance, groundedness, and safety; iterate on prompts and retrieval parameters.
-- Deployment
-  - Deploy the flow to a managed endpoint behind a private or public front door; integrate with your app via REST; monitor usage and errors.
-- Governance
-  - Apply role‑based access, secrets in Key Vault, private networking, and data retention policies; enable content safety filters and monitoring dashboards.
-
-Common use cases
-- Enterprise Q&A over internal knowledge bases and documents.
-- Copilots for employees (for example HR/IT self‑service, sales enablement, policy guidance).
-- Customer support assistants and case deflection.
-- Document intelligence and summarization with citations.
-- Code and data assistants in specialized domains using smaller, efficient models.
-- Agentic workflows that combine retrieval with tool execution for task automation.
-
-Getting started
-1) Set up your Azure environment
-- You need an Azure subscription and appropriate role assignments (for example Owner or Contributor).
-- Confirm regional availability and quotas for the models you intend to use (Azure OpenAI requires approval and quotas).
-
-2) Create an Azure AI Foundry project
-- Go to ai.azure.com and create a new project (also known as a hub/workspace in earlier materials).
-- Link or provision supporting resources: Azure OpenAI, Azure AI Search, Storage (Blob), Application Insights/Log Analytics, and Content Safety depending on your scenario.
-
-3) Choose a model
-- Browse the model catalog to select a suitable model for your task and constraints.
-- Consider latency, capability, cost, and compliance needs. For RAG and tool use, ensure the model supports function calling and streaming if needed.
-
-4) Connect your data (for RAG scenarios)
-- Create an Azure AI Search index; configure chunking and embeddings.
-- Use indexers or pipelines to ingest from storage and databases; set schedules as needed.
-- Validate retrieval quality with sample queries.
-
-5) Build a prompt flow
-- Compose a system prompt, user prompt template, retrieval step, and tool calls.
-- Parameterize temperature, top‑p, max tokens, and retrieval settings for experimentation.
-- Store secrets in Key Vault and use managed identity for resource access.
-
-6) Evaluate quality and safety
-- Create a test set with representative questions and expected facts.
-- Run automated evaluations for relevance and groundedness; perform red‑teaming for safety.
-- Iterate on prompts, chunking, and retrieval parameters based on evaluation results.
-
-7) Deploy and integrate
-- Deploy the flow to a managed online endpoint with the desired network configuration.
-- Integrate from your application using the REST endpoint and API keys or managed identity.
-- Set up monitoring dashboards for latency, cost per request, safety events, and user feedback.
-
-Pricing overview
-- Model usage: Charged per token or per unit (varies by model and whether using Azure OpenAI or model‑as‑a‑service).
-- Azure AI Search: Indexing and query units are billed based on SKU and capacity; vector search may require specific SKUs.
-- Storage and networking: Standard Azure charges for Blob/Data Lake and egress apply.
-- Content Safety and evaluations: Metered per request where applicable.
-- Managed endpoints: Compute and hosting costs if dedicated capacity is used.
-Pricing varies by region and model. Always consult the official Azure pricing pages for the most current details.
-
-Security, compliance, and governance
-- Data isolation: Customer prompts and completions for Azure OpenAI and model‑as‑a‑service offerings are not used to train the underlying foundation models.
-- Identity and access: Use Microsoft Entra ID and Azure RBAC for least‑privilege access to projects and resources.
-- Network isolation: Use private endpoints and VNets for production workloads where feasible.
-- Key management: Store secrets in Azure Key Vault and use customer‑managed keys for supported services if required by policy.
-- Responsible AI: Apply content safety filters, jailbreak detection, and evaluation workflows; maintain human oversight for high‑impact decisions.
-
-Model selection guidance
-- Start with the smallest model that meets your quality bar to control cost and latency.
-- For knowledge‑heavy tasks over your own data, invest in retrieval quality (chunking, embeddings, hybrid search) before jumping to larger models.
-- Consider small language models (for example Phi‑3 family) for on‑device or constrained scenarios; for complex reasoning or multimodal tasks, evaluate larger models like GPT‑4 class where available.
-
-Best practices
-- Grounding and citations: Provide sources with responses to build trust; penalize ungrounded answers during evaluation.
-- Prompt hygiene: Use clear system instructions; explicitly constrain scope; add content filters; protect tool invocation with guardrails.
-- Retrieval tuning: Balance chunk size and overlap; combine keyword and vector search; deduplicate and rerank results.
-- Evaluation: Maintain a golden dataset; use both automated and human evaluation; track regressions with versioned prompts and flows.
-- Cost control: Set rate limits and budgets; cache intermediate results where appropriate; measure cost per task and optimize.
-- Observability: Log prompts, retrieved documents (or hashes), model versions, and latency; monitor safety events and user feedback loops.
-
-How Azure AI Foundry compares
-- Versus using Azure OpenAI alone: Foundry adds a full environment for data grounding, orchestration, evaluation, deployment, and governance across many models—not just Azure OpenAI.
-- Versus other clouds’ gen‑AI platforms: It is similar in scope to services like AWS Bedrock or Google Vertex AI for gen‑AI, while integrating deeply with Azure security, networking, and data services, and providing access to both OpenAI and a range of open models.
-
-Limitations and considerations
-- Regional availability and quotas vary by model; plan capacity early for production launches.
-- Some features (for example specific models, fine‑tuning options, or safety tools) may be in preview in certain regions.
-- Latency and cost can grow with retrieval size and tool complexity; profile and optimize before scaling.
-- Always validate outputs for safety and correctness; keep humans in the loop where required by policy or regulation.
-
-Further reading and official resources
-- Azure AI Foundry (portal): https://ai.azure.com
-- Azure AI documentation: https://learn.microsoft.com/azure/ai/
-- Azure OpenAI Service overview: https://learn.microsoft.com/azure/ai-services/openai/overview
-- Azure AI Search overview: https://learn.microsoft.com/azure/search/search-what-is-azure-search
-- Azure AI Content Safety: https://learn.microsoft.com/azure/ai-services/content-safety/overview
-- Semantic Kernel: https://aka.ms/semantic-kernel
-- Responsible AI at Microsoft: https://aka.ms/raiguidelines
-
-Notes
-- This article is based on publicly available information as of late 2024. Features and availability change frequently; consult Microsoft’s official documentation for the latest updates.
-
-If you’d like this added in a different location (for example docs/ or linked from README), tell me where you prefer and I’ll adjust the path and cross‑links.
+How to use
+- Open itineraries/blr_2day_itinerary.txt and follow Day 1 and Day 2. Pick Option A (Nandi Hills) or Option B (Bannerghatta) for Day 2 based on your start preference.
+- Adjust for Monday/Tuesdays closures as noted.
